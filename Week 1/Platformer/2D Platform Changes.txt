@@ -1,0 +1,13 @@
+https://play.unity.com/mg/2d/2d-platform-assignment
+
+- made the tokens into a rainbow
+- moved the alien
+- changed the size of the enemy next to the alien
+- changed the speed of the moving blob after the raindbow tokens
+- allowed the blob next to the big one to jump as well
+- changed the players gravity modifier
+- muted the music
+- made the big blob glowy green
+- added movement path to alien (rigidboy 2d & enemy controller)
+- added capsule collider to alien, now stops when jumped on
+
