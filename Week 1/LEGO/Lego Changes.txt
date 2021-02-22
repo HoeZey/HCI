@@ -1,0 +1,13 @@
+https://play.unity.com/mg/lego/lego-build-17
+
+- Changed accuracy of the shooting enemy's lookat block and added alive block
+- Added text block to the wizard on the island with the fence saying "Wanna buy drugs?" and to the detonation button saying kaboomboom
+- Added moving platform near the trophy altar
+- Added new pickups on island near the new platform and on the island with the exploding fence
+- Added trail of platforms near this island exloding on impact
+- Added treasure chest on the island lead to by this exploding trail
+- Added cannon that shoots in the direction of the platforms
+- Added a lose condition based on a timer of 120 seconds
+- Removed first bridge and added 2 fences
+- Added condition that requires the player to collect 3 pick ups for the fences to explode
+
