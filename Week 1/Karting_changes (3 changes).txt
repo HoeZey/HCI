@@ -1,0 +1,5 @@
+https://play.unity.com/mg/karting/hci_a1_karting
+
+1. Rotated tracks to include additional tracks
+2. Added checkpoints
+3. Adjusted time limit
