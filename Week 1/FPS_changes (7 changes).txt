@@ -1,0 +1,10 @@
+https://play.unity.com/mg/fps/hci_a1_fps
+
+1. Changed floor color/material
+2. Changed wall color/material
+3. Changed character controller attributes
+4. Added enemy turret in beginnign of level and added loot drops to it
+5. Added multiple pick-up objectives
+6. Adjusted attributes of blaster, shotgun, and launcher
+7. Changed color and intensity of directional light
+8. Added door that disappears when picking up a cookie (but it is still visible...)
