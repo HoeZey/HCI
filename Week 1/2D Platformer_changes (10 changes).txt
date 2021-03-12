@@ -10,4 +10,3 @@ https://play.unity.com/mg/2d/2d-platform-assignment
 - made the big blob glowy green
 - added movement path to alien (rigidboy 2d & enemy controller)
 - added capsule collider to alien, now stops when jumped on
-
