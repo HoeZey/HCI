@@ -1,0 +1,12 @@
+1 To find planes, To create point clouds, To estimate light levels
+2 To make virtual content fit in more naturally with the environment
+3 Marker based AR is supported in most of AR APIs
+4 Spatial computing
+5 Upload it using your Vuforia developer account, Download a database that includes the marker
+6 iOS only
+7 Both Android and iOS
+8 An augmented reality device
+9 Mapbox, ARCore, Google Maps
+10 OpenCV
+11 ARBackgroundRenderer
+12 Smartphone sound level
